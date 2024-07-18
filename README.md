@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tmillieny@gmail.com)
 
 <!-- About Me Section -->
-## ⛄ About Me
+##  About Me
 - 👋 Hi, I’m @millienyts
 - 👀 I’m interested in learn on everything while I can..
 - 🌱 I’m currently learning full-stack engenieer...
