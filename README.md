@@ -51,5 +51,5 @@
 ## 🏗️ Major projects worked on
 | Project Name | Description                                                                                                                                 |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Printf](https://github.com/millienyts/holbertonschool-printf)                                      |
-| ![Simple Shell](https://github.com/millienyts/holbertonschool-simple_shell)
+| ![Printf]                                      |
+| ![Simple Shell]
